@@ -1,1 +1,10 @@
 
+button:hover {
+   color: ghostwhite;
+   transition: 2s;
+  }
+
+button {
+    border:none;
+}
+
